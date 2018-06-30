@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">Tech know</string>
+
+    <!--START OF QUESTION 1-->
+    <string name="qtn1">1. In terms of computing, what does CPU stand for?</string>
+
+    <!--QUESTION 1 OPTION-->
+
+    <string name="qtn1_optn1">Central processing unit</string>
+    <string name="qtn1_optn2">Computer programming unit</string>
+    <string name="qtn1_optn3">Calculation processing unit</string>
+    <string name="qtn1_optn4">None of the above</string>
+
+    <!--END OF OPTION 1-->
+    <!--END OF QUESTION 1-->
+
+    <!--START QUESTION 2-->
+
+    <string name="qtn2">2. Solar power generates electricity from what source?</string>
+
+
+    <!--QUESTION 2 OPTION-->
+    <string name="qtn2_optn1">Mars</string>
+    <string name="qtn2_optn2">Sun</string>
+    <string name="qtn2_optn3">Pluto</string>
+    <string name="qtn2_optn4">Jupiter</string>
+    <!--END OPTION 2-->
+
+    <!--END QUESTION 2-->
+
+    <!--START QUESTION 3-->
+
+    <string name="qtn3">3. Firefox, Opera, Chrome, Safari and Explorer are types of what?</string>
+    <string name="qtn3_optn1">Web browsers</string>
+    <string name="qtn3_optn2">Integrated Development Environment</string>
+    <string name="qtn3_optn3">Softwares</string>
+    <string name="qtn3_optn4">Application</string>
+
+    <!--END OPTION 3-->
+
+    <!--END QUESTION 3-->
+
+    <!--START QUESTION 4-->
+
+    <string name="qtn4">4. Atomic bombs work by atomic fission.</string>
+    <string name="qtn4_optn1">True</string>
+    <string name="qtn4_optn2">False</string>
+
+    <!--END OPTION 4-->
+
+    <!--END QUESTION 4-->
+
+    <!--START QUESTION 5-->
+
+    <string name="qtn5">5. Did the original Sony Playstation use CDs or cartridges to play games?</string>
+    <string name="qtn5_optn1">CDs</string>
+    <string name="qtn5_optn2">Cartridges</string>
+
+    <!--END OPTION 5-->
+
+    <!--END QUESTION 5-->
+
+    <!--START QUESTION 6-->
+
+    <string name="qtn6">6. In terms of computing, what does ROM stand for?</string>
+    <string name="qtn6_optn1">Read only memory</string>
+    <string name="qtn6_optn2">Readable onboard microchip</string>
+    <string name="qtn6_optn3">Run on machine</string>
+    <string name="qtn6_optn4">None of the above</string>
+    <!--END OPTION 6-->
+
+    <!--END QUESTION 6-->
+
+    <!--START QUESTION 7-->
+
+    <string name="qtn7">7. Along with whom did Bill Gates found Microsoft?</string>
+    <string name="qtn7_optn1">Wole soyinka</string>
+    <string name="qtn7_optn2">Wozniack</string>
+    <string name="qtn7_optn3">Paul allen</string>
+    <string name="qtn7_optn4">Steve jobs</string>
+    <!--END OPTION 7-->
+
+    <!--END QUESTION 7-->
+
+    <!--START QUESTION 8-->
+
+    <string name="qtn8">8. What is the Earth’s primary source of energy?</string>
+    <string name="qtn8_optn1">Water</string>
+    <string name="qtn8_optn2">Sun</string>
+    <string name="qtn8_optn3">Wind</string>
+    <string name="qtn8_optn4">None of the above</string>
+    <!--END OPTION 8-->
+
+    <!--END QUESTION 8-->
+
+    <!--START QUESTION 9-->
+
+    <string name="qtn9">9. What does the abbreviation WWW stand for?</string>
+    <string name="qtn9_optn1">World wide website</string>
+    <string name="qtn9_optn2">World wide web</string>
+    <string name="qtn9_optn3">World web wide</string>
+    <string name="qtn9_optn4">Wide World Web</string>
+    <!--END OPTION 9-->
+
+    <!--END QUESTION 9-->
+
+    <!--START QUESTION 10-->
+
+    <string name="qtn10">10. DNA is an abbreviation for ‘Deoxyribonucleic acid’.</string>
+    <string name="qtn10_optn1">True</string>
+    <string name="qtn10_optn2">False</string>
+    <!--END OPTION 10-->
+
+    <!--END QUESTION 10-->
+
+    <!--START QUESTION 11-->
+
+    <string name="qtn11">11. When Did the Apple iPhone first become available?</string>
+    <string name="qtn11_optn1">2005</string>
+    <string name="qtn11_optn2">2006</string>
+    <string name="qtn11_optn3">2007</string>
+    <!--END OPTION 11-->
+
+    <!--END QUESTION 11-->
+</resources>
